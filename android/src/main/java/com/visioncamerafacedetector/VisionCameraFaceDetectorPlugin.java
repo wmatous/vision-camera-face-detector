@@ -24,7 +24,7 @@ import com.google.mlkit.vision.face.FaceContour;
 import com.google.mlkit.vision.face.FaceDetection;
 import com.google.mlkit.vision.face.FaceDetector;
 
-import org.opencv.android.BaseLoaderCallback;
+// import org.opencv.android.BaseLoaderCallback;
 
 
 import com.google.mlkit.vision.face.FaceDetectorOptions;
